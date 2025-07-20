@@ -1,4 +1,4 @@
-# Gym Class Scheduling and Membership Management System
+<!-- # Gym Class Scheduling and Membership Management System
 
 ## 1. Project Overview
 
@@ -248,4 +248,4 @@ npm run start:dev
 }
 
 ```
-"# mini-event-scheduler" 
+"# mini-event-scheduler"  -->
