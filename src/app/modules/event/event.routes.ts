@@ -23,6 +23,6 @@ router.patch('/update/:id', eventControllers.updatedEvent);
 router.get('/get', eventControllers.getAllEvent);
 
 //archived Scheduler
-router.put('/achived/:id', eventControllers.archivedEvent);
+router.put('/archived/:id', eventControllers.archivedEvent);
 
 export const eventRoutes = router;
