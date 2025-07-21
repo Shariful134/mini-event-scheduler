@@ -8,7 +8,7 @@ The **Mini Event Scheduler** is a Backend web application that enables users to 
 
 ## 🔗 Live Server URL
 
-[👉 https://gym-scheduler-six.vercel.app](https://gym-scheduler-six.vercel.app/)
+[👉 https://event-scheduler-coral.vercel.app](https://event-scheduler-coral.vercel.app/)
 
 ---
 
@@ -55,6 +55,14 @@ yarn install
 pnpm install
 # or
 bun install
+```
+
+## Create .env File and Setup your .env File
+
+```ts
+NODE_ENV=development
+PORT=5000
+DATABASE_URL=your database url link
 ```
 
 ## Run Development
