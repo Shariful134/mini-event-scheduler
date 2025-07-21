@@ -25,7 +25,7 @@ app.use(
 app.use('/api/v1/', router);
 
 app.get('/', (req: Request, res: Response) => {
-  res.send('Gym-Sheduler-Server Hello!');
+  res.send('Mini-Event-Sheduler-Server Hello!');
 });
 
 // Error Handler
