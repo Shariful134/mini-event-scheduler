@@ -6,9 +6,13 @@ The **Mini Event Scheduler** is a Backend web application that enables users to 
 
 ---
 
-## 🔗 Live Server URL
+## 🔗 Live Backend URL
 
 [👉 https://event-scheduler-coral.vercel.app](https://event-scheduler-coral.vercel.app/)
+
+## 🔗 Live Frontend URL
+
+[👉 https://event-scheduler-client-amber.vercel.app](https://event-scheduler-client-amber.vercel.app/)
 
 ---
 

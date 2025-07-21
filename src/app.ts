@@ -13,7 +13,10 @@ app.use(cookiePerser());
 
 app.use(
   cors({
-    origin: ['http://localhost:5173'],
+    origin: [
+      'http://localhost:5173',
+      'https://event-scheduler-client-amber.vercel.app/',
+    ],
     credentials: true,
   }),
 );
