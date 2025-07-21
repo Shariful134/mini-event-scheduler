@@ -15,7 +15,7 @@ app.use(
   cors({
     origin: [
       'http://localhost:5173',
-      'https://event-scheduler-client-amber.vercel.app',
+      'https://event-scheduler-client-f46quor61.vercel.app',
     ],
     credentials: true,
   }),
